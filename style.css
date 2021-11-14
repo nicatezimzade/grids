@@ -1,0 +1,31 @@
+.red{
+    background-color: red;
+}
+.green{
+    background-color:green;
+}
+.black{
+    background-color: black;
+}
+.grey{
+    background-color: gray;
+}
+.purple{
+    background-color: purple;
+}
+.pink{
+    background-color: pink;
+}
+
+.row{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    clear: both;
+}
+
+.row div{
+    max-width: 1300px;
+    height: 200px;
+    float: left;
+}
